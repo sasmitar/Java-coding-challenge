@@ -19,4 +19,6 @@ In addition to a working solution, we will be looking for:
 2. Your inherent Java skills.
 
 
+### Best of luck!
+
 
